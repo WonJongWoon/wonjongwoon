@@ -61,9 +61,8 @@
 <br/>  
 
 
-## 저의 깃허브 통계와 언어 사용과 활동 분포예요 !
+## 저의 깃허브 통계예요
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=wonjongwoon&show_icons=true"> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonjongwoon"> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=wonjongwoon&show_icons=true"></br>
   <img src="https://activity-graph.herokuapp.com/graph?username=wonjongwoon">
 </div>
