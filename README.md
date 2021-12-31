@@ -14,7 +14,7 @@
 
 - 🌱 저는 현재 **Spring Framework** 와 **Java** 를 공부하고 있어요 !
 
-- 📝 저는 꾸준히  [종운이의 기술블로그](https://wonjongwoon.github.io/)에 글을 쓸려고 노력하고 있어요. 놀러와주세요 !
+- 📝 저는 꾸준히  [종운이의 기술블로그](https://jongwoon.tistory.com/)에 글을 쓸려고 노력하고 있어요. 놀러와주세요 !
 
 - 📫 저에게 연락을 하고 싶으면 **wolfram_alpha@naver.com** 로 이메일을 보내주시면 되요 !
 
