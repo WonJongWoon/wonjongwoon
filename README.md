@@ -4,68 +4,81 @@
   
 <br/>
 
-### <div align="center">👨‍💻 안녕하세요. Software Engineer 원종운입니다. 🚀</div>  <br/>
-  
-- 📝 저는 꾸준히 [종운이의 기술블로그](https://wonjongwoon.github.io/)에 글을 쓸려고 노력하고 있어요. 놀러와주세요 !
+## <div align="center">👨‍💻 Hello I'm Software Engineer WonJongWoon. 🚀</div>  <br/>
 
-- 📫 저에게 연락을 하고 싶으면 **wolfram_alpha@naver.com** 로 이메일을 보내주시면 되요 !
-
-<br/>  
-
-
-## 제가 꾸준히 공부하고 관심 있어 하는 기술들이예요.
-<table><tr><td valign="top" width="33%">
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>  
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<div align="center"> 
+📝 저는 꾸준히 <a href="https://wonjongwoon.github.io" alt="">종운이의 기술블로그</a>에 글을 쓸려고 노력하고 있어요. 놀러와주세요 !
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Storage  
-<div align="center">  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## 저의 깃허브 통계예요
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wonjongwoon&show_icons=true"></br>
+📫 저에게 연락을 하고 싶으면 <b>wolfram_alpha@naver.com</b> 로 이메일을 보내주시면 되요 !
 </div>
+<br/>  
+
+# Currently, Using Tech Stacks.
+
+## Language
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=00ADD8&logo=Java&logoColor=FFFFFF&label=)
+![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=00ADD8&logo=Kotlin&logoColor=FFFFFF&label=)
+![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
+
+## Frontend
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=2088FF&logoColor=FFFFFF&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=Type-Script&color=2088FF&logoColor=FFFFFF&label=)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=2088FF&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=2088FF&logoColor=FFFFFF&label=)
+![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind&color=2088FF&logoColor=FFFFFF&label=)
+
+## Backend
+![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
+![Spring Security](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Security&color=6DB33F&logoColor=FFFFFF&label=)
+![Spring Data JPA](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Data+JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)
+![Query-DSL](https://img.shields.io/static/v1?style=for-the-badge&message=Query-DSL&color=6DB33F&logoColor=FFFFFF&label=)
+![Go-Fiber](https://img.shields.io/static/v1?style=for-the-badge&message=Go+Fiber&color=6DB33F&logoColor=FFFFFF&label=)
+![Uber-fx](https://img.shields.io/static/v1?style=for-the-badge&message=uber+fx&color=6DB33F&logoColor=FFFFFF&label=)
+
+## Test Framework
+![Kotest](https://img.shields.io/static/v1?style=for-the-badge&message=Kotest&color=25A162&logoColor=FFFFFF&label=)
+![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
+![Mockito](https://img.shields.io/static/v1?style=for-the-badge&message=Mockito&color=25A162&logoColor=FFFFFF&label=)
+![Mockk](https://img.shields.io/static/v1?style=for-the-badge&message=Mockk&color=25A162&logoColor=FFFFFF&label=)
+
+![Gomega](https://img.shields.io/static/v1?style=for-the-badge&message=Go+Gomega&color=25A162&logoColor=FFFFFF&label=)
+![Gingko](https://img.shields.io/static/v1?style=for-the-badge&message=Go+Gingko&color=25A162&logoColor=FFFFFF&label=)
+![Mockgen](https://img.shields.io/static/v1?style=for-the-badge&message=Go+Mockgen&color=25A162&logoColor=FFFFFF&label=)
+
+## DevOps
+![AWS EC2](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+EC2&color=2496ED&logo=AWS+EC2&logoColor=FFFFFF&label=)
+![AWS RDS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+RDS&color=2496ED&logo=AWS+RDS&logoColor=FFFFFF&label=)
+
+![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
+![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=2496ED&logo=Jenkins&logoColor=FFFFFF&label=)
+![ARGO CD](https://img.shields.io/static/v1?style=for-the-badge&message=ARGO+CD&color=2496ED&logo=ARGO+CD&logoColor=FFFFFF&label=)
+
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=2496ED&logo=Kubernetes&logoColor=FFFFFF&label=)
+
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=2496ED&logo=MySQL&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=2496ED&logo=MongoDB&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=2496ED&logo=Redis&logoColor=FFFFFF&label=)
+
+## Tools
+![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
+
+## Collaboration
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=F05032&logo=GitHub&logoColor=FFFFFF&label=)
+
+![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=F05032&logo=Slack&logoColor=FFFFFF&label=)
+![Confluence](https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=F05032&logo=Confluence&logoColor=FFFFFF&label=)
+![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=F05032&logo=Jira&logoColor=FFFFFF&label=)
+![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=F05032&logo=Notion&logoColor=FFFFFF&label=)
+
+<br/>  
+
+# Problem Solving
+![wolfram_alpha's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wolfram_alpha)
+
+<br/>
+
+# Github Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=wonjongwoon&show_icons=true"></br>
